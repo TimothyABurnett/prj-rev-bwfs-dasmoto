@@ -1,0 +1,31 @@
+h2 {
+  font-weight: bold;
+  color: White;
+}
+
+.title {
+  background-image: url("./pictures/square.jpeg");
+  font-size: 100px;
+  font-weight: bolder;
+  color: khaki;
+}
+
+.price {
+  color: blue;
+  font-weight: bold;
+}
+
+.brush {
+  background-color: lightgreen;
+  font-size: 50px;
+}
+
+.frames {
+  background-color: pink;
+  font-size: 50px;
+}
+
+.paint {
+  background-color: lightblue;
+  font-size: 50px;
+}
